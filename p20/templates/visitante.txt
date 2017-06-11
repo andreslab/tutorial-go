@@ -1,0 +1,8 @@
+{{define "visitantes"}}
+
+Fromulario de migración para visitantes
+
+Nombre: {{.Nombre}}
+Edad: {{.Edad}}
+Pais de Origen: {{.Pais}}
+{{end}}
